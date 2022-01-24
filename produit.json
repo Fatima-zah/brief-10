@@ -1,0 +1,196 @@
+ [
+        {
+            "id":102030,
+            "désignation":"La vie est belle",
+            "prix":"50$",
+            "catégorie":" Femme",
+            "disponibilité":["Tanger","Rabat","Casablanca","Marrakech"],
+            "fournisseur":{
+                "RaisonSociale":"Lancome",
+                "Adresse":"Rue-Mohamed-Jazouli, Rabat"
+            }
+        },
+        {
+            "id":102040,
+            "désignation":"  Adore",
+            "prix":"90$",
+            "catégorie":" Femme ",
+            "disponibilité":["Rabat","Casablanca","Marrakech","Agadir"],
+            "fournisseur":{
+                "RaisonSociale":"Dior",
+                "Adresse":"Rue-Moulay-ismail, Tanger"
+            }
+        },
+        {
+            "id":102050,
+            "désignation":" Coco",
+            "prix":"75$",
+            "catégorie":" Femme",
+            "disponibilité":["Tanger","Casablanca","Marrakech","Agadir"],
+            "fournisseur":{
+                "RaisonSociale":"Chanel",
+                "Adresse":"Route de Nouasseur Sidi Maârouf Casablanca"
+            }
+        },
+        {
+            "id":102060,
+            "désignation":"Loverdose",
+            "prix":"87$",
+            "catégorie":" Femme",
+            "disponibilité":["Tanger","Rabat","Casablanca","Marrakech"],
+            "fournisseur":{
+                "RaisonSociale":"Diesel",
+                "Adresse":"Sidi Maârouf Casablanca"
+            }
+        },
+        {
+            "id":102070,
+            "désignation":"Shalimar",
+            "prix":"69$",
+            "catégorie":" Femme",
+            "disponibilité":["Tanger","Rabat","Marrakech","Agadir"],
+            "fournisseur":{
+                "RaisonSociale":"Guerlaim",
+                "Adresse":"Boulvard Tanger"
+            }
+        },
+        {
+            "id":102080,
+            "désignation":" Eau sauvage",
+            "prix":"90$",
+            "catégorie":" Homme",
+            "disponibilité":["Tanger","Rabat","Casablanca","Marrakech"],
+            "fournisseur":{
+                "RaisonSociale":"Dior",
+                "Adresse":"Ahlan Tanger"
+            }
+             },
+        {
+            "id":102090,
+            "désignation":" Chrome",
+            "prix":"99$",
+            "catégorie":" Homme",
+            "disponibilité":["Tanger","Casablanca","Marrakech","Agadir"],
+            "fournisseur":{
+                "RaisonSociale":"Azzaro",
+                "Adresse":"Rue Mohamed 5 Agadir"
+            }
+            },
+
+        {
+            "id":102100,
+            "désignation":" Fahreheit",
+            "prix":"55$",
+            "catégorie":" Homme",
+            "disponibilité":["Tanger","Rabat","Casablanca","Marrakech"],
+            "fournisseur":{
+                "RaisonSociale":"Dior",
+                "Adresse":"Rue Mohamed 6 Marrakech "
+            }
+        },
+        { 
+            "id":102110,
+            "désignation":" Ck one",
+            "prix":"79$",
+            "catégorie":" Homme",
+            "disponibilité":["Rabat","Casablanca","Marrakech","Agadir"],
+            "fournisseur":{
+                "RaisonSociale":"Calvin klein",
+                "Adresse":"Malabata Tanger"
+            }},
+        {
+            "id":102120,
+            "désignation":" Boss bottled",
+            "prix":"69$", 
+            "catégorie":" Homme",
+            "disponibilité":["Tanger","Rabat","Casablanca","Agadir"],
+            "fournisseur":{
+                "RaisonSociale":"Hugo boss",
+                "Adresse":"Hay Riad Rabat"
+            }},
+        {
+            "id":102130,
+            "désignation":" One million ",
+            "prix":"88$",
+            "catégorie":" Homme",
+            "disponibilité":["Tanger","Rabat","Casablanca","Marrakech"],
+            "fournisseur":{
+                "RaisonSociale":"Paco Rabanne",
+                "Adresse":"Maarif Casablanca"
+            }},
+        {
+            "id":102140,
+            "désignation":" Dior hommme",
+            "prix":"65$",
+            "catégorie":" Homme",
+            "disponibilité":["Tanger","Rabat","Marrakech","Agadir"],
+            "fournisseur":{
+                "RaisonSociale":"Dior",
+                "Adresse":"ad1"
+            }},
+        {
+            "id":102150,
+            "désignation":" Fuel for life",
+            "prix":"98$",
+            "catégorie":" Homme",
+            "disponibilité":["Rabat","Casablanca","Marrakech","Agadir"],
+            "fournisseur":{
+                "RaisonSociale":"Diesel ",
+                "Adresse":"Hay Hassani Casablanca"
+            }},
+        {
+            "id":102160,
+            "désignation":"Bleu de channel ",
+            "prix":"98$",
+            "catégorie":" Homme",
+            "disponibilité":["Tanger","Rabat","Casablanca","Marrakech"],
+            "fournisseur":{
+                "RaisonSociale":"Channel ",
+                "Adresse":"Ménara Marrakech"
+            }},
+        {
+            "id":102170,
+            "désignation":" Amor Amor",
+            "prix":"80$",
+            "catégorie":" Femme",
+            "disponibilité":["Tanger","Casablanca","Marrakech","Agadir"],
+            "fournisseur":{
+                "RaisonSociale":"Cacharel",
+                "Adresse":"Founty Agadir"
+            }},
+        {
+            "id":102180,
+            "désignation":"Sweet",
+            "prix":"80$",
+            "catégorie":" Femme",
+            "disponibilité":["Tanger","Rabat","Casablanca","Marrakech"],
+            "fournisseur":{
+                "RaisonSociale":"Lolita Lempicka",
+                "Adresse":"Cité El Massira Agadir"
+            }},
+        {
+            "id":102190,
+            "désignation":"Very irresistible Givenchy",
+            "prix":"70$",
+            "catégorie":" Homme",
+            "disponibilité":["Tanger","Rabat","Casablanca","Agadir"],
+            "fournisseur":{
+                "RaisonSociale":"Givenchy",
+                "Adresse":"Agdal Rabat"
+            }},
+        {
+            "id":102200,
+            "désignation":" Trésor",
+            "prix":"59$",
+            "catégorie":" Homme",
+            "disponibilité":["Tanger","Rabat","Casablanca","Marrakech"],
+            "fournisseur":{
+                "RaisonSociale":"Lancome",
+                "Adresse":"Charf Tanger"
+            }
+        }
+      
+     
+        
+    ]
+      

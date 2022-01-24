@@ -1,0 +1,20 @@
+#myInput{
+    width: 220px;
+    margin-left: 500px;
+}
+ td{
+        text-align:start;
+        
+    }
+
+ th{
+    color: #fff;
+    cursor: pointer;
+    
+ }   
+table {
+    background-image: url(bac.jpg);
+    background-size: cover;
+
+}
+
